@@ -1,0 +1,76 @@
+
+body{
+
+	color:white;
+	text-align: center;
+	background-color: #1fabab;
+	font-family: helvetics;
+	background-image:linear-gradient(to bottom right, #80bfff,#47dc28);
+}
+#body{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	background-color:rgba(100,100,100,0.9);
+	width:600px;
+	padding: 20px;
+	margin: auto;
+	border-radius: 10px;
+	text-align: left;
+	font-size: 20px;
+	color: rgba(255,255,245,9);
+}
+#title{
+	font-size: 45px;
+	margin: 2px;
+	padding-bottom: 0.1px;
+}
+#description{
+	font-size: 20px;
+	padding-top: 2px;
+
+}
+#name{
+	width: 580px;
+	padding: 6px;
+	border-radius: 4px;
+}
+#email{
+	width: 580px;
+	padding: 6px;
+	border-radius: 4px;
+}
+#number{
+	width: 580px;
+	padding: 6px;
+	border-radius: 4px;
+}
+#dropdown{
+	width: 580px;
+	padding: 6px;
+	border-radius: 4px;
+}
+}
+#submit{
+	border-radius: 4px;
+}
+#comment{
+	width:510px;
+	padding:40px;
+	border-radius: 4px;
+}
+#submit{
+	width:590px;
+	font-size: 20px;
+	padding: 0px;
+	border-radius: 4px;
+	margin-top: 12px;
+	color:white;
+	background-color: green;
+}
+#submit:hover{
+	transform: scale(1.1);}
+#footer{
+	font-size:10px;
+}
+
